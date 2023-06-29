@@ -1,6 +1,8 @@
 cd ./converted_resource_pack
 mv ./pack.png ./pack_icon.png
-mv ./assets/minecraft/textures/block ./
+mv ./assets ./textures
+mv ./textures/Minecraft/textures/block ./textures
+cd ./textures
 mv ./block ./blocks
 cd ./blocks
 mv ./acacia_door_bottom.png
@@ -10,7 +12,6 @@ mv ./acacia_log_top.png
 mv ./acacia_log.png
 mv ./acacia_planks.png
 mv ./acacia_sapling.png
-mv ./acacia_trapdoor.png
 mv ./activator_rail_on.png
 mv ./activator_rail.png
 mv ./allium.png
