@@ -52,4 +52,11 @@ mv beacon.png
 mv bedrock.png
 mv bee_nest_bottom.png
 mv bee_nest_front_honey.png
+mv bee_nest_front.png
+mv bee_nest_side.png
+mv bee_nest_top.png
+mv beehive_end.png
+mv beehive_front_honey.png
+mv beehive_front.png
+mv beehive_side.png
 mv ./yellow_wool.png ./wool_colored_yellow
