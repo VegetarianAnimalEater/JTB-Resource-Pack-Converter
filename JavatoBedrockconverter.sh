@@ -59,4 +59,11 @@ mv ./beehive_end.png
 mv ./beehive_front_honey.png
 mv ./beehive_front.png
 mv ./beehive_side.png
+mv beetroots_stage0.png
+mv beetroots_stage1.png
+mv beetroots_stage2.png
+mv beetroots_stage3.png
+mv bell_bottom.png
+mv bell_side.png
+mv bell_top.png
 mv ./yellow_wool.png ./wool_colored_yellow
