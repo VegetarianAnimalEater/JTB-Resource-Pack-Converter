@@ -70,4 +70,13 @@ mv ./big_dripleaf_side.png
 mv ./big_dripleaf_stem.png
 mv ./big_dripleaf_tip.png
 mv ./big_dripleaf_top.png
+mv ./birch_door_bottom.png
+mv ./birch_door_top.png
+mv ./birch_leaves.png
+mv ./birch_log.png
+mv ./birch_planks.png
+mv ./birch_saplings.png
+mv ./birch_trapdoor.png
+mv ./black_candle_lit.png
+mv ./black_candle.png
 mv ./yellow_wool.png ./wool_colored_yellow
