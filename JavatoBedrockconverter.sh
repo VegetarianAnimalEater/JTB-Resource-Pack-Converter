@@ -79,4 +79,13 @@ mv ./birch_saplings.png
 mv ./birch_trapdoor.png
 mv ./black_candle_lit.png
 mv ./black_candle.png
+mv ./black_concrete_powder.png
+mv ./black_concrete.png
+mv ./black_glazed_terracotta.png
+mv ./black_shulker_box.png
+mv ./black_stained_glass.png
+mv ./black_terracotta.png
+mv ./black_wool.png
+mv ./blackstone_top.png
+mv ./blackstone.png
 mv ./yellow_wool.png ./wool_colored_yellow
